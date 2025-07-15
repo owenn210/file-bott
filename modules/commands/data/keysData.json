@@ -1,0 +1,17 @@
+[
+    {
+        "key": "satoru_a762",
+        "used": true,
+        "duration": 999
+    },
+    {
+        "key": "satoru_e6f4",
+        "used": false,
+        "duration": 9999
+    },
+    {
+        "key": "satoru_80cd",
+        "used": false,
+        "duration": 99999
+    }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "hi"
+  },
+  {
+    "role": "assistant",
+    "content": "Hi.  🔥 Tu luyện gian khổ, nhưng ta không sợ. ⚔️  Vân Lam Tông, cứ chờ đấy. 😠  💊 Đan dược này không tồi.  🏔️  Tiếp tục tu luyện thôi.\n"
+  },
+  {
+    "role": "user",
+    "content": "Cc"
+  },
+  {
+    "role": "assistant",
+    "content": "\"Cc\"?  Hừ, ngươi nghĩ ta là ai?  Ta không rảnh rỗi.  Muốn thử ta sao? ⚔️🔥  Cẩn thận đừng tự chuốc lấy thất bại.  Ta còn phải tu luyện,  trở nên mạnh mẽ hơn nữa. 🏔️💊  Vân Lam Tông, cứ chờ đấy. 😠🐉  Sư phụ, người yên tâm, con nhất định sẽ thành công. 🧙‍♂️\n"
+  },
+  {
+    "role": "user",
+    "content": "Ngấp cái mồm lại"
+  },
+  {
+    "role": "assistant",
+    "content": "Ngáp?  Chưa đủ tư cách. 🔥  Lo mà tu luyện đi. 🏔️  \n"
+  },
+  {
+    "role": "user",
+    "content": "Haha"
+  },
+  {
+    "role": "assistant",
+    "content": "Haha.  💊  Nực cười.  ⚔️  Ta không rảnh rỗi. 🔥  Ngươi nghĩ vậy sao? 🏔️  \n"
+  }
+]

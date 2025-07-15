@@ -1,0 +1,106 @@
+{
+    "notiGroup": true,
+    "notiUnsend": 10,
+    "iconUnsend": {
+        "status": true,
+        "icon": "👍"
+    },
+    "NOTIFICATION": true,
+    "language": "vi",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "adminOnly": false,
+    "DASHBOARD": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "ACCESSTOKEN": "EAAGNO4a7r2wBPCZBVrQ9JbuuxBD39gWH2HoLXnUz4hI95KoUZA3JrtqqqxtRjez2RYt0eeEWb3XBBg3RNS245HM97LyFpjZCSZAoeUW7X3II25YEsyE1nupihhX4jQ6TWucRcezTZCUbF1ZAF2WOFiZAE4GpsKxZBEsfBUNH89sstoQAbMVKkMx7KPXZAdnwLsgZDZD",
+    "EMAIL": "o2800381@gmail.com",
+    "PASSWORD": "dthinh210@",
+    "OTPKEY": "",
+    "BOTNAME": "Deep Sea Dream🌊",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=61578017301300",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "61578017301300",
+        "",
+        "61571751253230",
+        "61571751253230"
+    ],
+    "NDH": [
+        "61578017301300"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "ws3-fca",
+    "SETUP_WIN": {
+        "port": 8080,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.15",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 90
+        }
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 100000
+    },
+    "farm": {
+        "cooldownTime": 300000
+    },
+    "kiemtien": {
+        "cooldownTime": 600000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 4
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "minecraft": {
+        "APIKEY": ""
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 15
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "work": {
+        "cooldownTime": 21600000
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "nonkydieu": {
+        "rewardMoney": 100000,
+        "absoluteWinMoney": 200000
+    }
+}
